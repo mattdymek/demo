@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-I hope this doesn't cause problems
+This is the second section, on a branch
